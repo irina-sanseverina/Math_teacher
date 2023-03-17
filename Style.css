@@ -22,18 +22,17 @@ body{
 }
 .main{
    /* margin-top: 100px; */
-   margin-left: 50px;
+   margin-left: 100px;
    flex: 1 1 auto;
    max-width: 50%;
    display: flex;
    flex-direction: column;
    justify-content: space-between;
-   
 }
 h1{
    font-size: 45px;
    letter-spacing: 5px;
-   padding: 20px 0;
+   padding: 40px 0;
    color: #6E0E0E;
 }
 
@@ -97,6 +96,7 @@ h1{
 }
 }
 @media (min-width: 820px){
+  
 .main-list{
    font-size: 30px;
 }
